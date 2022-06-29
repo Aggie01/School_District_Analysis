@@ -1,8 +1,8 @@
 # School_District_Analysis
 ## Background:
-- Standardized math and reading scores for 9th, 10th, 11th and 12th graders for city school district were gathered.  
-- Data scientist for the school district is asked to present the findings to the city school board. 
-- Based on preliminary analysis, evidence of the academic dishonesty is suspected, suggesting that the THS scores are significantly skewed.
+- Standardized math and reading scores for the **9th, 10th, 11th and 12th graders** for city school district were gathered.  
+- Data scientist for the school district was asked to present the findings to the city school board. 
+- Based on preliminary analysis, evidence of the academic dishonesty was suspected, suggesting that the THS scores were significantly skewed.
 
 ## Purpose:
 - **Prove** the evidence of academic dishonesty with the main focuse on Thomas High School (THS) or
@@ -12,25 +12,25 @@
 - Establish conclusion wheather the evidence of suspected THS school dishonesty was properly collected
 
 ## Methodology:
-- Refactoring the THS student count by replacing the ninth graders' math and reading scores with NaN's while keeping the rest of data intact
+- Refactoring the THS student count by replacing the 9th graders' math and reading scores with NaN's while keeping the rest of data intact
 
 ## Expected Deliverables: 
 - Overall district summary
 - School summary (THS)
-- Impact or lack of it of replacing THS ninth graders' math and reading scores with NaNs:
+- Impact or lack of it of replacing THS 9th graders' math and reading scores with NaNs:
   - overall THS performance vs other schools
   - math & reading scores by grade
   - school spending
   - scores by school size
   - scores by school type
         
-## Results
-## Overall district summary:
+## Results:
+### Overall district summary
 
-## School summary (THS):
+### Thomas High School summary
 
 
-## Impact of replacing THS ninth graders' math and reading scores with NaNs:
+### Impact of replacing THS ninth graders' math and reading scores with NaNs:
   - overall THS performance vs other schools
   - math & reading scores by grade
   - school spending

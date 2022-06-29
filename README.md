@@ -9,7 +9,7 @@
 - **Disprove** the evidence of such academic dishonesty 
 
 ## Main Goal:
-- Establish conclusion if the THS school dishonesty evidence was properly collected
+- Establish conclusion wheather the evidence of suspected THS school dishonesty was properly collected
 
 ## Methodology:
 - Refactoring the THS student count by replacing the ninth graders' math and reading scores with NaN's while keeping the rest of data intact

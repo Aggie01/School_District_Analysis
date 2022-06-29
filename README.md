@@ -27,7 +27,7 @@
 ## Results:
 ### Overall district summary
 
-### Thomas High School summary
+### Thomas High School summary including 9th, 10th, 11th and 12th graders
 
 
 ### Impact of replacing THS ninth graders' math and reading scores with NaNs:

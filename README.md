@@ -17,11 +17,24 @@
 ## Expected Deliverables: 
 - Overall district summary
 - School summary (THS)
-- Impact or lack of it of replacing the ninth graders' math and reading scores at THS based on:
+- Impact or lack of it of replacing THS ninth graders' math and reading scores with NaNs:
   - overall THS performance vs other schools
   - math & reading scores by grade
   - school spending
   - scores by school size
   - scores by school type
         
+## Results
+## Overall district summary:
+
+## School summary (THS):
+
+
+## Impact of replacing THS ninth graders' math and reading scores with NaNs:
+  - overall THS performance vs other schools
+  - math & reading scores by grade
+  - school spending
+  - scores by school size
+  - scores by school type 
+
 

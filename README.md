@@ -2,7 +2,7 @@
 ## Background:
 - Standardized math and reading scores for 9th, 10th, 11th and 12th graders for city school district were gathered.  
 - Data scientist for the school district is asked to present the findings to the city school board. 
-- Based on preliminary analysis, evidence of academic dishonesty is suspected, suggesting that the THS scores are significantly skewed.
+- Based on preliminary analysis, evidence of the academic dishonesty is suspected, suggesting that the THS scores are significantly skewed.
 
 ## Purpose:
 - **Prove** the evidence of academic dishonesty with the main focuse on Thomas High School (THS) or
@@ -18,10 +18,10 @@
 - Overall district summary
 - School summary (THS)
 - Impact or lack of it of replacing the ninth graders' math and reading scores at THS based on:
-        - overall THS performance vs otehr schools
-        - math & reading scores by grade
-        - school spending
-        - scores by school size
-        - scores by school type
+  - overall THS performance vs other schools
+  - math & reading scores by grade
+  - school spending
+  - scores by school size
+  - scores by school type
         
 

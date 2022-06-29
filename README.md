@@ -30,6 +30,7 @@
 ### Thomas High School summary including 9th, 10th, 11th and 12th graders
 
 
+
 ### Impact of replacing THS ninth graders' math and reading scores with NaNs:
   - overall THS performance vs other schools
   - math & reading scores by grade

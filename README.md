@@ -43,9 +43,10 @@
 - school spending was not affected
 
 ### Summary
-The passing math, reading and overall percentages have increased significantly after dropping the THS 9th graders. It proves that there was a higher number of high scoring students as compared to other schools. Other schools had more normal distribution of passing grades around the average math and reading scores.  Removing THS 9 th graders scores, made the THS results more aligned with other schools- similar distribution of passing grades.
+The passing percentages for math, reading and overall have increased significantly after dropping the THS 9th graders. It proves the point that there was a significant number of high scoring students as compared to other schools. Other schools had close to  normal distribution of passing grades around the average of math and reading scores.  Removing THS 9th graders, made the THS results more aligned with other schools' results - similar distribution of passing grades.  The 9th graders skewed the school's passing results. This data analysis could be a basis for repeating THS 9th grade standardized math and reading testing.
 School spending was not affecting by this change.
-The 9th graders skewed the results of passing the passing results having the abnormal amout of students with high passign scores
+
+
 
 
 

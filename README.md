@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Background:
-- Standardized math and reading scores for the **9th, 10th, 11th and 12th graders** for city school district were gathered.  
+- Standardized math and reading scores for **9th, 10th, 11th and 12th graders** for the city school district were gathered.  
 - Data scientist for the school district was asked to present the findings to the city school board. 
 - Based on preliminary analysis, evidence of the academic dishonesty was suspected, suggesting that the THS scores were significantly skewed.
 
@@ -26,16 +26,18 @@
         
 ## Results:
 ### Overall district summary
+- Averages score for math: 78.9%
+- Average score for reading: 81.8%
 
 ### Thomas High School summary including 9th, 10th, 11th and 12th graders
+- Averages score for math: 83.4%
+- Average score for reading: 83.8%
 
-
-
-### Impact of replacing THS ninth graders' math and reading scores with NaNs:
-  - overall THS performance vs other schools
-  - math & reading scores by grade
-  - school spending
-  - scores by school size
-  - scores by school type 
+### Impact of replacing THS ninth graders' math and reading scores with NaNs
+ - overall THS performance vs other schools
+ - math & reading scores by grade
+ - school spending
+ - scores by school size
+ - scores by school type 
 
 
